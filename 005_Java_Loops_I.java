@@ -1,4 +1,4 @@
-/* Practice004_Java Output Formatting_Nova*/
+/* Practice005_Java_Loops_Nova*/
 import java.io.*;
 import java.math.*;
 import java.security.*;
