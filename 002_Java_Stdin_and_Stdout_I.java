@@ -8,6 +8,7 @@ public class Solution {
         int a = scan.nextInt();
         int b = scan.nextInt();
         int c = scan.nextInt();
+        scan.close();
         
         // Complete this line
         // Complete this line
