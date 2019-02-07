@@ -1,4 +1,4 @@
-/* Practice001_Welcome to Java!_Nova*/
+/* Practice002_Java Stdin and Stdout I_Nova*/
 import java.util.*;
 
 public class Solution {
