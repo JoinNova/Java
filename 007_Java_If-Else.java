@@ -12,7 +12,7 @@ public class Solution {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();            
         String result = "";
-        if (n%2>0 || ((n%2<1)&&(n<21))){
+        if (n%2>0 || ((n%2<1)&&(5<n)&&(n<21))){
             result="Weird";
         }else{
             result="Not Weird";
